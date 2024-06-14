@@ -29,7 +29,7 @@ on:
         required: true
         type: string
       WRT_TEST:
-        default: 'false'
+        default: 'true'
         required: false
         type: string
 
